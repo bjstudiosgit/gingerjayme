@@ -1,0 +1,8 @@
+{
+  "name": "GingerifyMe",
+  "description": "A ginger experience ",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
